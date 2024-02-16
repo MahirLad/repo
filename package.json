@@ -4,12 +4,11 @@
   "description": "",
   "main": "pra.js",
   "scripts": {
-    "start": "node pra.js"
+    "start": "nodemon pra.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.2",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
